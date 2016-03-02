@@ -1,2 +1,3 @@
 Django==1.8.10
+-e git+https://github.com/pzrq/discover-road-runner.git#egg=discover_road_runner
 

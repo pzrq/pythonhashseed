@@ -1,1 +1,4 @@
 *.pyc
+
+# discover-road-runner and similar
+local_cache
